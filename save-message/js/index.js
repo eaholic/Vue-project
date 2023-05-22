@@ -12,7 +12,7 @@
                     },
                     {
                         imgSrc: "./img/2a.jpg",
-                        text: "今天又写vue, 很高兴",
+                        text: "今天又写vue, 很高兴...................................",
                         date: "2019-4-2",
                         buttonDeleteText: "删除"
                     }
